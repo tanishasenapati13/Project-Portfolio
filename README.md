@@ -27,4 +27,4 @@ Contributed to the development of an AI-powered transaction security system that
 Contributed to the development of a federated intrusion detection system designed to defend against model poisoning attacks in distributed learning environments. My primary contributions included FLNET2023 dataset preprocessing, non-IID client data partitioning, and the design and implementation of a Hybrid GRU-Transformer deep learning model for network intrusion detection. The project integrates adaptive trust-aware aggregation, client reputation management, and secure federated learning to improve the robustness and accuracy of collaborative intrusion detection.
 
 **Repository**
-[FedNIDS](https://github.com/shravya004/FedNIDS)
+[FedNIDS_Member3](https://github.com/shravya004/FedNIDS)
